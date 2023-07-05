@@ -14,7 +14,5 @@
     <name>MyTable</name>
     <label>My Table</label>
     <description>This is my table.</description>
-    <!-- Additional table configuration goes here -->
   </table>
-  <!-- Additional components and configurations go here -->
 </application>
